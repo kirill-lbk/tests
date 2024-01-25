@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "249458B2-8FCC-42A0-BC7A-197EB2258520"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9031747F-F128-4BDC-9240-DD8672BCBBBF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "2cellsUI/Views/RectView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "Rect"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "9031747F-F128-4BDC-9240-DD8672BCBBBF - fe8715fbac78b3b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of _cellsUI.Rect.lineSize : __C.CGSize"
+                  moduleName = "2cellsUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kirill/Documents/dev/2cellsUI/2cellsUI/Views/RectView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "9031747F-F128-4BDC-9240-DD8672BCBBBF - 9ca4f0c2762f39e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_cellsUI.Rect.lineSize.getter : __C.CGSize"
+                  moduleName = "2cellsUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kirill/Documents/dev/2cellsUI/2cellsUI/Views/RectView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "9031747F-F128-4BDC-9240-DD8672BCBBBF - b2d8a68129f1f517"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_cellsUI.Rect.lineSize.setter : __C.CGSize"
+                  moduleName = "2cellsUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kirill/Documents/dev/2cellsUI/2cellsUI/Views/RectView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "9031747F-F128-4BDC-9240-DD8672BCBBBF - c1575ebac6ba3306"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_cellsUI.Rect.lineSize.modify : __C.CGSize"
+                  moduleName = "2cellsUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kirill/Documents/dev/2cellsUI/2cellsUI/Views/RectView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "9031747F-F128-4BDC-9240-DD8672BCBBBF - 50930175c0804503"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_cellsUI.Rect.lineSize.modify : __C.CGSize with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "2cellsUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kirill/Documents/dev/2cellsUI/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "9031747F-F128-4BDC-9240-DD8672BCBBBF - 3d02ef976b5f3ddf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_cellsUI.Rect.$lineSize.getter : SwiftUI.Binding&lt;__C.CGSize&gt;"
+                  moduleName = "2cellsUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kirill/Documents/dev/2cellsUI/2cellsUI/Views/RectView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "9031747F-F128-4BDC-9240-DD8672BCBBBF - 7696197ae34c9671"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 0 of _cellsUI.Rect.init(lineSize: __C.CGSize, odd: _cellsUI.Odds) -&gt; _cellsUI.Rect"
+                  moduleName = "2cellsUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kirill/Documents/dev/2cellsUI/2cellsUI/Views/RectView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
